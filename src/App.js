@@ -34,7 +34,7 @@ function App() {
       <div className="crypto-search">
         <h1 className="crypto-search-currency">Search a currency</h1>
         <form>
-          <input type="text" placeholder="Search here: Like xrp" className="crypto-search-input" onChange={handleChange }/>
+          <input type="text" placeholder="Search here: type xrp" className="crypto-search-input" onChange={handleChange }/>
         </form>
       </div>
       {filteredCoins.map(coin => {
