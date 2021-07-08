@@ -32,7 +32,7 @@ function App() {
         console.log(res.data);
       })
       .catch(err => {
-        console.log(err);
+        console.log(err );
       })
   }, [pageNumber])
 
