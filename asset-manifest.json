@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/crypto-price-tracking-api/static/css/main.094525e1.chunk.css",
-    "main.js": "/crypto-price-tracking-api/static/js/main.52444993.chunk.js",
-    "main.js.map": "/crypto-price-tracking-api/static/js/main.52444993.chunk.js.map",
-    "runtime-main.js": "/crypto-price-tracking-api/static/js/runtime-main.7e3e80cb.js",
-    "runtime-main.js.map": "/crypto-price-tracking-api/static/js/runtime-main.7e3e80cb.js.map",
-    "static/js/2.d5bf68f3.chunk.js": "/crypto-price-tracking-api/static/js/2.d5bf68f3.chunk.js",
-    "static/js/2.d5bf68f3.chunk.js.map": "/crypto-price-tracking-api/static/js/2.d5bf68f3.chunk.js.map",
-    "index.html": "/crypto-price-tracking-api/index.html",
-    "static/css/main.094525e1.chunk.css.map": "/crypto-price-tracking-api/static/css/main.094525e1.chunk.css.map",
-    "static/js/2.d5bf68f3.chunk.js.LICENSE.txt": "/crypto-price-tracking-api/static/js/2.d5bf68f3.chunk.js.LICENSE.txt"
+    "main.css": "/crypto-price-tracking-application/static/css/main.094525e1.chunk.css",
+    "main.js": "/crypto-price-tracking-application/static/js/main.52444993.chunk.js",
+    "main.js.map": "/crypto-price-tracking-application/static/js/main.52444993.chunk.js.map",
+    "runtime-main.js": "/crypto-price-tracking-application/static/js/runtime-main.ff9886ff.js",
+    "runtime-main.js.map": "/crypto-price-tracking-application/static/js/runtime-main.ff9886ff.js.map",
+    "static/js/2.d5bf68f3.chunk.js": "/crypto-price-tracking-application/static/js/2.d5bf68f3.chunk.js",
+    "static/js/2.d5bf68f3.chunk.js.map": "/crypto-price-tracking-application/static/js/2.d5bf68f3.chunk.js.map",
+    "index.html": "/crypto-price-tracking-application/index.html",
+    "static/css/main.094525e1.chunk.css.map": "/crypto-price-tracking-application/static/css/main.094525e1.chunk.css.map",
+    "static/js/2.d5bf68f3.chunk.js.LICENSE.txt": "/crypto-price-tracking-application/static/js/2.d5bf68f3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e3e80cb.js",
+    "static/js/runtime-main.ff9886ff.js",
     "static/js/2.d5bf68f3.chunk.js",
     "static/css/main.094525e1.chunk.css",
     "static/js/main.52444993.chunk.js"
