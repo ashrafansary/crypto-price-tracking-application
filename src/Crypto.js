@@ -4,7 +4,7 @@ import './Crypto.css'
 function Crypto({image, name, symbol, price, volume, priceChange, marketcap}) {
     return (
         <>
-            <div className="crypto-container">
+    <div className="crypto-container">
                 <div className="crypto-row">
                     <div className="crypto">
                         <img src={image} alt="crypto-image" />
@@ -22,6 +22,7 @@ function Crypto({image, name, symbol, price, volume, priceChange, marketcap}) {
                     </div>
                 </div>
             </div>
+
         </>
     )
 }
